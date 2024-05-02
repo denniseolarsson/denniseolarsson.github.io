@@ -12,7 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Psychology, University of Sussex, United Kingdom, 10/2018 - 11/2022
+  * Doctoral dissertation ‘Perceiving the heart: Novel methods, clinical implications, and behavioural effects of cardiac interoceptive signals’
+  * Supervisors: Prof. Sarah N. Garfinkel; Prof. Zoltan Dienes
 * MSc in Cognition, Umeå University, Sweden, 09/2015 - 06/2017
+  * Equivalent of First-Class Honours
+  * Experimental dissertation ‘Evoking the illusion of dual self-location and dual body-ownership’
+  * Supervisors: Prof. H. Henrik Ehrsson; Dr Johan Eriksson
 * BSc in Cognitive Neuroscience, University of Skövde, Sweden, 09/2012 - 06/2015
 
 Work experience
