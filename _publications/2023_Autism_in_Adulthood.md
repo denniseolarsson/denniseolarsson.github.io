@@ -1,12 +1,12 @@
 ---
-title: "“I'm Trying to Reach Out, I'm Trying to Find My People”: A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults"
+title: ""I'm Trying to Reach Out, I'm Trying to Find My People": A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults"
 collection: publications
 permalink: /publication/2023_Autism_in_Adulthood
 excerpt: ''
 date: 2023-11-02
 venue: 'Autism in Adulthood'
 paperurl: ''
-citation: 'Quadt, L., Williams, G., Mulcahy, J., Larsson, D. E. O., Silva, M., Arnold, A. J., Critchley, H. D., & Garfinkel, S. N. (2023). &quot;“I'm Trying to Reach Out, I'm Trying to Find My People”: A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults.&quot; <i>Autism in Adulthood</i>.'
+citation: 'Quadt, L., Williams, G., Mulcahy, J., Larsson, D. E. O., Silva, M., Arnold, A. J., Critchley, H. D., & Garfinkel, S. N. (2023). &quot;"I'm Trying to Reach Out, I'm Trying to Find My People": A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults.&quot; <i>Autism in Adulthood</i>.'
 ---
 
 Background: Rates of loneliness are substantially higher among autistic compared with nonautistic individuals. This observation refutes the persistent stereotype that autistic individuals are not motivated to seek meaningful social relationships. More plausibly, social environments systematically exclude people with higher levels of sensory differences, impeding on opportunities for autistic individuals to form meaningful relationships. In this study, we sought to quantify the level of distress associated with loneliness (Study A) and provide complementary qualitative insight into experiences of loneliness in relationship to sensory differences in autistic adults (Study B).
