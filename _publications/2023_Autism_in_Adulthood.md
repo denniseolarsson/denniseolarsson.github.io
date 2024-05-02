@@ -1,5 +1,5 @@
 ---
-title: "'I'm Trying to Reach Out, I'm Trying to Find My People': A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults"
+title: "I'm Trying to Reach Out, I'm Trying to Find My People: A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults"
 collection: publications
 permalink: /publication/2023_Autism_in_Adulthood
 excerpt: ''
