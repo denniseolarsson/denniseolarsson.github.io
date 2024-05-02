@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Heat rate variability as a biomarker in health and affective disorders: A perspective on neuroimaging studies"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2019-11-15
+venue: 'Neuroimage'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Mulcahy*, J. S., Larsson*, D. E. O., Garfinkel, S. N., & Critchley, H. D. (2019). &quot;Heat rate variability as a biomarker in health and affective disorders: A perspective on neuroimaging studies.&quot; <i>Neuroimage</i>. 202.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+* shared first authorship
