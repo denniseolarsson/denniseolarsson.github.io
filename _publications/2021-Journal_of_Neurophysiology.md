@@ -5,7 +5,7 @@ permalink: /publication/2021-Journal_of_Neurophysiology
 excerpt: ''
 date: 2021-11-01
 venue: 'Journal of Neurophysiology'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://denniseolarsson.github.io/files/larsson-et-al-2021-JournalOfNeurophysiology.pdf'
 citation: 'Larsson, D. E. O., Esposito, G., Critchley, H. D., Dienes, Z., & Garfinkel, S. N. (2021). &quot;Sensitivity to changes in rate of heartbeats as a measure of interoceptive ability.&quot; <i>Journal of Neurophysiology</i>. 126(5).'
 ---
 
