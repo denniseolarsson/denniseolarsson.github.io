@@ -12,7 +12,6 @@ title                    : "PhD"
 title_separator          : ","
 name                     : &name "Dennis E O Larsson"
 description              : &description "personal description"
-https://github.com/denniseolarsson
 url                      : https://denniseolarsson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "denniseolarsson/denniseolarsson.github.io"
