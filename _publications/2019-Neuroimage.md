@@ -2,7 +2,7 @@
 title: "Heat rate variability as a biomarker in health and affective disorders: A perspective on neuroimaging studies"
 collection: publications
 permalink: /publication/2019-Neuroimage
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2019-11-15
 venue: 'Neuroimage'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
