@@ -11,26 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Psychology, University of Sussex, United Kingdom, 10/2018 - 11/2022
+* MSc in Cognition, Umeå University, Sweden, 09/2015 - 06/2017
+* BSc in Cognitive Neuroscience, University of Skövde, Sweden, 09/2012 - 06/2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 03/2024 - 05/2024: Data Scientist
+  * Remote location - University College London; London, United Kingdom
+  * Supervisor: Professor Mairead MacSweeney
+  * Work involved writing R scripts for consolidating and analysing longitudinal data on language development in deaf children, while keeping the scripts flexible enough to allow future amendments to data collection structure
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 04/2022 - 03/2024: Postdoctoral Researcher
+  * Karolinska Institute: Department of Neuroscience; Stockholm, Sweden
+  * Supervisor: Professor Henrik Ehrsson
+  * Designed and conducted behavioural and neuroimaging experiments on body perception. Wrote Python, MATLAB, and R scripts for experiment presentation, data collection, and analysis of behavioural and fMRI data. Supervised research intern in their data collection, analysis, and results presentation. Assisted in neuroimaging and behavioural experiments, including data analysis and operating an fMRI scanner. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 12/2017 - 10/2018: Research Assistant
+  * Brighton and Sussex Medical School: Department of Neuroscience; Brighon, United Kingdom
+  * Supervisor: Professor Hugo Critchley
+  * Responsible for designing and running behavioural, physiological, and neuroimaging experiments, writing MATLAB scripts for experiment presentation and data analysis, and presenting research findings.
+
+* 12/2017 - 10/2018: Research Assistant
+  * Karolinska Institutet: Department of Neuroscience; Stockholm, Sweden
+  * Supervisor: Professor Henrik Ehrsson
+  * Responsible for participant recruitment, preparing and running behavioural experiments on body perception, analysing and presenting research results. 
+
+* 03/2016 - 06/2016: Research Assistant
+  * Umeå University: Department of Neuroscience; Umeå, Sweden
+  * Supervisor: Dr. Johan Eriksson
+  * Assisting with designing and writing code for running behavioural and neuroimaging experiments with visual masking stimuli.
   
 Skills
 ======
@@ -41,24 +51,29 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Technical Skills
+======
+* Python
+  * Advanced skills in experiment task programming, data analysis and visualisation. Toolbox expertise includes Psychopy, Numpy, and Pandas.
+* MATLAB
+  * Advanced skills in experiment task programming, data analysis and visualisation, and fMRI data analysis using SPM12.
+* R & SPSS
+  * Advanced skills in data manipulation, analysis, and visualisation.
+* Qualtrics
+  * Intermediate skills in questionnaire and survey design, and qualitative data collection and analysis. 
+* SAS & SQL
+  * Intermediate skills in data manipulation, analysis, and visualisation.
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 07/2023 – 09/2023: Supervision of research intern (Karolinska Institutet, Sweden), including experiment design and piloting, data collection and analysis, and presentation of results and conclusions. 
+* 12/2018 – 07/2019: Supervision of research intern (University of Sussex, United Kingdom), including experiment design and piloting, data collection and analysis, and presentation of results and conclusions.
+* 2019 - 2021: Committee member in University of Sussex Archery Club; 
+Competitions officer.
+
