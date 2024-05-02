@@ -2,7 +2,7 @@
 title: "Interoceptive training to target anxiety in autistic adults (ADIE): A single-center, superiority randomized controlled trial"
 collection: publications
 permalink: /publication/2021-EClinicalMedicine
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2021-09-01
 venue: 'EClinicalMedicine'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'

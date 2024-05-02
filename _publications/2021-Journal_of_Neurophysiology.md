@@ -1,7 +1,7 @@
 ---
 title: "Sensitivity to changes in rate of heartbeats as a measure of interoceptive ability"
 collection: publications
-#permalink: /publication/2021-Journal_of_Neurophysiology
+permalink: /publication/2021-Journal_of_Neurophysiology
 excerpt: ''
 date: 2021-11-01
 venue: 'Journal of Neurophysiology'

@@ -2,7 +2,7 @@
 title: "Dimensions of interoception predict premonitory urges and tic severity in Tourette Syndrome"
 collection: publications
 permalink: /publication/2019-Psychiatry_research
-#excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2019-01-01
 venue: 'Psychiatry research'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
