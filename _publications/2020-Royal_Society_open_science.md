@@ -1,0 +1,12 @@
+---
+title: "Duplication of the bodily self: a perceptual illusion of dual full-body ownership and dual self-location"
+collection: publications
+permalink: /publication/2020-Royal_Society_open_science
+excerpt: ''
+date: 2020-12-09
+venue: 'The Royal Society'
+paperurl: ''
+citation: 'Guterstam, A., Larsson, D. E. O., Szczotka, J., & Ehrsson, H. H. (2020). &quot;Duplication of the bodily self: a perceptual illusion of dual full-body ownership and dual self-location.&quot; <i>The Royal Society</i>. 10(1).'
+---
+
+Previous research has shown that it is possible to use multisensory stimulation to induce the perceptual illusion of owning supernumerary limbs, such as two right arms. However, it remains unclear whether the coherent feeling of owning a full-body may be duplicated in the same manner and whether such a dual full-body illusion could be used to split the unitary sense of self-location into two. Here, we examined whether healthy human participants can experience simultaneous ownership of two full-bodies, located either close in parallel or in two separate spatial locations. A previously described full-body illusion, based on visuo-tactile stimulation of an artificial body viewed from the first-person perspective (1PP) via head-mounted displays, was adapted to a dual-body setting and quantified in five experiments using questionnaires, a behavioural self-location task and threat-evoked skin conductance responses. The results of experiments 1–3 showed that synchronous visuo-tactile stimulation of two bodies viewed from the 1PP lying in parallel next to each other induced a significant illusion of dual full-body ownership. In experiment 4, we failed to find support for our working hypothesis that splitting the visual scene into two, so that each of the two illusory bodies was placed in distinct spatial environments, would lead to dual self-location. In a final exploratory experiment (no. 5), we found preliminary support for an illusion of dual self-location and dual body ownership by using dynamic changes between the 1PPs of two artificial bodies and/or a common third-person perspective in the ceiling of the testing room. These findings suggest that healthy people, under certain conditions of multisensory perceptual ambiguity, may experience dual body ownership and dual self-location. These findings suggest that the coherent sense of the bodily self located at a single place in space is the result of an active and dynamic perceptual integration process.
