@@ -1,12 +1,12 @@
 ---
-title: "I&apos;m Trying to Reach Out, I&apos;m Trying to Find My People: A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults"
+title: "I am Trying to Reach Out, I am Trying to Find My People: A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults"
 collection: publications
 permalink: /publication/2023-Autism_in_Adulthood
 excerpt: ''
 date: 2023-11-02
 venue: 'Autism in Adulthood'
 paperurl: ''
-citation: 'Quadt, L., Williams, G., Mulcahy, J., Larsson, D. E. O., Silva, M., Arnold, A. J., Critchley, H. D., & Garfinkel, S. N. (2023). &quot;I&apos;m Trying to Reach Out, I&apos;m Trying to Find My People: A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults.&quot; <i>Autism in Adulthood</i>.'
+citation: 'Quadt, L., Williams, G., Mulcahy, J., Larsson, D. E. O., Silva, M., Arnold, A. J., Critchley, H. D., & Garfinkel, S. N. (2023). &quot;I am Trying to Reach Out, I am Trying to Find My People: A Mixed-Methods Investigation of the Link Between Sensory Differences, Loneliness, and Mental Health in Autistic and Nonautistic Adults.&quot; <i>Autism in Adulthood</i>.'
 ---
 
 Background
