@@ -41,15 +41,6 @@ Work experience
   * Umeå University: Department of Neuroscience; Umeå, Sweden
   * Supervisor: Dr. Johan Eriksson
   * Assisting with designing and writing code for running behavioural and neuroimaging experiments with visual masking stimuli.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Technical Skills
 ======
@@ -63,12 +54,6 @@ Technical Skills
   * Intermediate skills in questionnaire and survey design, and qualitative data collection and analysis. 
 * SAS & SQL
   * Intermediate skills in data manipulation, analysis, and visualisation.
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
@@ -77,3 +62,8 @@ Service and leadership
 * 2019 - 2021: Committee member in University of Sussex Archery Club; 
 Competitions officer.
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
