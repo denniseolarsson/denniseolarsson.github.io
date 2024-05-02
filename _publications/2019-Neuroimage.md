@@ -5,7 +5,7 @@ permalink: /publication/2019-Neuroimage
 excerpt: ''
 date: 2019-11-15
 venue: 'Neuroimage'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: ''
 citation: 'Mulcahy*, J. S., Larsson*, D. E. O., Garfinkel, S. N., & Critchley, H. D. (2019). &quot;Heat rate variability as a biomarker in health and affective disorders: A perspective on neuroimaging studies.&quot; <i>Neuroimage</i>. 202.'
 ---
 
