@@ -15,4 +15,4 @@ I enjoy coding, and have extensive experience with quantitative data analysis an
 
 My research interest are interoception with a focus on the cardiovascular system, body perception, and brain-body interaction.
 
-[/images/logo-gmail.png](denniseolarsson@gmail.com)     [/images/logo-linkedIn.png](https://www.linkedin.com/in/dennis-larsson-phd-45511586/)     [/images/logo-googleScholar.jpg](https://scholar.google.com/citations?user=zwE2KOIAAAAJ&hl=en)     [/images/logo-gitHub.jpg](https://github.com/denniseolarsson)
+[/images/logo-gmail.png|gmail](denniseolarsson@gmail.com)     [/images/logo-linkedIn.png|linkedIn](https://www.linkedin.com/in/dennis-larsson-phd-45511586/)     [/images/logo-googleScholar.jpg|Google Scholar](https://scholar.google.com/citations?user=zwE2KOIAAAAJ&hl=en)     [/images/logo-gitHub.jpg|GitHub](https://github.com/denniseolarsson)
