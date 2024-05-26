@@ -9,7 +9,7 @@ redirect_from:
 
 ![Profile](/images/profile.png){: .align-right width="300px"}
 
-I'm a cognitive neuroscience researcher and data scientist. I obtained my PhD at the University of Sussex in the United Kingdom in 2022, finished a two year postdoctodal research contract at the Karolinska Institute in Sweden in 2024, and am currently looking for a job in the Netherlands. 
+I am a cognitive neuroscience researcher and data scientist. I obtained my PhD at the University of Sussex in the United Kingdom in 2022, and following that I was a postdoctoral researcher for two years at the Karolinska Institute in Sweden. I am currently looking for new opportunities in the Netherlands.
 
 I enjoy coding, and have extensive experience with quantitative data analysis and programming in multiple languages, with a major focus on Python, MATLAB, and RStudio. 
 
