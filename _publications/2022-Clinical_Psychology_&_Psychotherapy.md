@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-03-01
 venue: 'Clinical Psychology & Psychotherapy'
 paperurl: ''
-citation: 'Hayward, M.,  Jones, A-M., Strawson, W. H., Quadt, L.,  Larsson, D. E. O.,  Silva, M., Davies, G., Fielding‐Smith, S., Hazell, C. M., Critchley, H. D., & Garfinkel, S. N. (2019). &quot;A cross‐sectional study of auditory verbal hallucinations experienced by people with a diagnosis of borderline personality disorder.&quot; <i>Clinical Psychology & Psychotherapy</i>. 29(2).'
+citation: 'Hayward, M.,  Jones, A-M., Strawson, W. H., Quadt, L.,  Larsson, D. E. O.,  Silva, M., Davies, G., Fielding‐Smith, S., Hazell, C. M., Critchley, H. D., & Garfinkel, S. N. (2022). &quot;A cross‐sectional study of auditory verbal hallucinations experienced by people with a diagnosis of borderline personality disorder.&quot; <i>Clinical Psychology & Psychotherapy</i>. 29(2).'
 ---
 
 Background

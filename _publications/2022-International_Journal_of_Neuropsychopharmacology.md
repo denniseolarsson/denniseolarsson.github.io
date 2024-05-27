@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-05-01
 venue: 'International Journal of Neuropsychopharmacology'
 paperurl: ''
-citation: 'Strawson, W. H., Wang, H-T., Quadt, L., Sherman, M., Larsson, D. E. O., Davies, G., Mckeown, B. L. A., Silva, M., Fielding-Smith, S., Jones, A-M., Hayward, M., Smallwood, J., Critchley, H. D., & Garfinkel, S. N. (2019). &quot;Voice hearing in borderline personality disorder across perceptual, subjective, and neural dimensions.&quot; <i>International Journal of Neuropsychopharmacology</i>. 25(5).'
+citation: 'Strawson, W. H., Wang, H-T., Quadt, L., Sherman, M., Larsson, D. E. O., Davies, G., Mckeown, B. L. A., Silva, M., Fielding-Smith, S., Jones, A-M., Hayward, M., Smallwood, J., Critchley, H. D., & Garfinkel, S. N. (2022). &quot;Voice hearing in borderline personality disorder across perceptual, subjective, and neural dimensions.&quot; <i>International Journal of Neuropsychopharmacology</i>. 25(5).'
 ---
 
 Background
