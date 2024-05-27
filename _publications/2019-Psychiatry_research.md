@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Psychiatry_research
 excerpt: ''
 date: 2019-01-01
-venue: 'Psychiatry research'
+venue: 'Psychiatry Research'
 paperurl: ''
 citation: 'Rae, C. L., Larsson, D. E O., Garfinkel, S. N., & Critchley, H. D. (2019). &quot;Dimensions of interoception predict premonitory urges and tic severity in Tourette Syndrome.&quot; <i>Psychiatry research</i>. 271.'
 ---

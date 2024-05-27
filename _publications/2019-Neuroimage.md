@@ -1,5 +1,5 @@
 ---
-title: "Heat rate variability as a biomarker in health and affective disorders: A perspective on neuroimaging studies"
+title: "Heart rate variability as a biomarker in health and affective disorders: A perspective on neuroimaging studies"
 collection: publications
 permalink: /publication/2019-Neuroimage
 excerpt: ''

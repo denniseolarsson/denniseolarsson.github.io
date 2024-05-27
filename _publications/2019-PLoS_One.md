@@ -3,7 +3,7 @@ title: "Multisensory correlations—not tactile expectations—determine the sen
 collection: publications
 permalink: /publication/2019-PLoS_One
 excerpt: ''
-date: 2020-11-27
+date: 2019-02-28
 venue: 'PLoS One'
 paperurl: ''
 citation: 'Guterstam, A., Larsson, D. E. O., Zeberg, H., & Ehrsson, H. H. (2019). &quot;Multisensory correlations—not tactile expectations—determine the sense of body ownership.&quot; <i>PLoS One</i>. 14(2).'

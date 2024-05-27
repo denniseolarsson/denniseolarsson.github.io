@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-Consciousness_and_cognition
 excerpt: ''
 date: 2018-10-01
-venue: 'Consciousness and cognition'
+venue: 'Consciousness and Cognition'
 paperurl: ''
 citation: 'Rae, C. L., Larsson, D. E. O., Eccles, J. A., Ward, J., & Critchley, H. D. (2018). &quot;Subjective embodiment during the rubber hand illusion predicts severity of premonitory sensations and tics in Tourette Syndrome.&quot; <i>Consciousness and cognition</i>. 65.'
 ---

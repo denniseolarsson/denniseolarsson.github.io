@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-Brain_communications
 excerpt: ''
 date: 2020-11-27
-venue: 'Scientific Reports'
+venue: 'Brain Communications'
 paperurl: ''
 citation: 'Rae, C. L., Parkinson, J., Betka, S., Gould van Praag, C. D., Bouyagoub, S., Polyanska, L., Larsson, D. E. O., Harrison, N. A., Garfinkel, S. N., & Critchley, H. D. (2020). &quot;Amplified engagement of prefrontal cortex during control of voluntary action in Tourette syndrome.&quot; <i>Scientific Reports</i>. 2(2).'
 ---
