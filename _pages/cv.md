@@ -22,10 +22,9 @@ Education
 
 Work experience
 ======
-* 03/2024 - 05/2024: Data Scientist
+* 03/2024 - 07/2024: Data Scientist
   * Remote location - University College London; London, United Kingdom
-  * Supervisor: Professor Mairead MacSweeney
-  * Work involved writing R scripts for consolidating and analysing longitudinal data on language development in deaf children, while keeping the scripts flexible enough to allow future amendments to data collection structure
+  * Work involved writing R scripts for consolidating and analysing longitudinal data on language development in deaf children, while keeping the scripts flexible enough to allow future amendments to data collection structure.
 
 * 04/2022 - 03/2024: Postdoctoral Researcher
   * Karolinska Institute: Department of Neuroscience; Stockholm, Sweden
@@ -60,6 +59,17 @@ Technical Skills
 * SAS & SQL
   * Intermediate skills in data manipulation, analysis, and visualisation.
   
+Language Skills
+=====
+* Swedish
+  * Native
+* English
+  * Fluent
+* Dutch
+  * Basic
+* Polish
+  * Basic
+
 Service and leadership
 ======
 * 07/2023 – 09/2023: Supervision of research intern (Karolinska Institutet, Sweden), including experiment design and piloting, data collection and analysis, and presentation of results and conclusions. 
