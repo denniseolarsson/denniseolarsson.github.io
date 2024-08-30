@@ -22,9 +22,12 @@ Education
 
 Work experience
 ======
-* 03/2024 - 07/2024: Data Scientist
-  * Remote location - University College London; London, United Kingdom
-  * Work involved writing R scripts for consolidating and analysing longitudinal data on language development in deaf children, while keeping the scripts flexible enough to allow future amendments to data collection structure.
+<b>Data scientist</b>
+<i>University College London; Remote location - London, United Kingdom; 03/2024 - 07/2024</i>
+* <b>Developed and optimized R scripts</b> for data analysis, enhancing the efficiency and accuracy of research projects across multiple disciplines.
+* <b>Collaborated closely with researchers</b>, understanding their data needs and translating them into actionable analytical workflows.
+* <b>Conducted workshops and one-on-one training sessions</b>, empowering researchers to effectively utilize R scripts for their specific project requirements.
+* <b>Facilitated interdisciplinary research efforts</b> by ensuring seamless integration of R-based analytics into broader research processes.
 
 * 04/2022 - 03/2024: Postdoctoral Researcher
   * Karolinska Institute: Department of Neuroscience; Stockholm, Sweden
