@@ -22,12 +22,19 @@ Education
 
 Work experience
 ======
-<b>Data scientist</b></n>
-<i>University College London; Remote location - London, United Kingdom; 03/2024 - 07/2024</i>
-* <b>Developed and optimized R scripts</b> for data analysis, enhancing the efficiency and accuracy of research projects across multiple disciplines.
-* <b>Collaborated closely with researchers</b>, understanding their data needs and translating them into actionable analytical workflows.
-* <b>Conducted workshops and one-on-one training sessions</b>, empowering researchers to effectively utilize R scripts for their specific project requirements.
-* <b>Facilitated interdisciplinary research efforts</b> by ensuring seamless integration of R-based analytics into broader research processes.
+<b>Data scientist</b>: <i>University College London; Remote location - London, United Kingdom | 03/2024 - 07/2024</i>
+  * <b>Developed and optimized R scripts</b> for consolidating and analysing longitudinal data on language development in children, with customised solutions establishing an efficient analysis pipeline. 
+  * <b>Collaborated closely with researchers</b>, understanding their data needs and translating them into actionable analytical workflows.
+  * <b>Conducted workshops and one-on-one training sessions</b>, empowering researchers to effectively utilize R scripts for their specific project requirements.
+  * <b>Facilitated interdisciplinary research efforts</b> by ensuring seamless integration of R-based analytics into broader research processes.
+
+* <b>Postdoctoral Researcher</b>: <i>Karolinska Institutet - Department of Neuroscience; Stockholm, Sweden | 04/2022 - 03/2024</i>
+  * <b>Lead one of four work packages in a €2.5M+ European Research Council Grant.</b> 
+  * <b>Designed and conducted behavioural and neuroimaging experiment</b> on body perception, using virtual reality and functional magnetic resonance imaging.
+  * <b>Designed and optimised Python, MATLAB, and R scripts</b> for experiment presentation, data collection, and analysis of behavioural and fMRI data.
+  * <b>Analysed neuroimaging and behavioural data</b> using linear mixed modelling, Bayesian statistics, and multi-voxel pattern analysis.
+  * <b>Supervised research intern</b> in experiment design, data collection and analysis, and presentation of experiment data and conclusions. 
+  * <b>Collaborated with multiple researchers</b>, including assisting with data analysis and operating an fMRI scanner.
 
 * 04/2022 - 03/2024: Postdoctoral Researcher
   * Karolinska Institute: Department of Neuroscience; Stockholm, Sweden
