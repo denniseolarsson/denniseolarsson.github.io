@@ -48,8 +48,8 @@ This is just whatever...
 Education
 -----
 * <b>Ph.D in Psychology</b>   <i>University of Sussex, United Kingdom | 10/2018 - 11/2022</i>
-  <h15>* Doctoral dissertation ‘Perceiving the heart: Novel methods, clinical implications, and behavioural effects of cardiac interoceptive signals’</h15>
-  * Supervisors: Prof. Sarah N. Garfinkel; Prof. Zoltan Dienes
+  *<h15> Doctoral dissertation ‘Perceiving the heart: Novel methods, clinical implications, and behavioural effects of cardiac interoceptive signals’</h15>
+  *<h18> Supervisors: Prof. Sarah N. Garfinkel; Prof. Zoltan Dienes</h18>
 * <b>MSc in Cognition</b>   <i>Umeå University, Sweden | 09/2015 - 06/2017</i>
   * Equivalent of First-Class Honours
   * Experimental dissertation ‘Evoking the illusion of dual self-location and dual body-ownership’
