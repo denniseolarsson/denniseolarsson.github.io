@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 * <b>Ph.D in Psychology</b>   <i>University of Sussex, United Kingdom | 10/2018 - 11/2022</i>
   * Doctoral dissertation ‘Perceiving the heart: Novel methods, clinical implications, and behavioural effects of cardiac interoceptive signals’
   * Supervisors: Prof. Sarah N. Garfinkel; Prof. Zoltan Dienes
@@ -21,7 +21,7 @@ Education
 * <b>BSc in Cognitive Neuroscience</b>   <i>University of Skövde, Sweden | 09/2012 - 06/2015</i>
 
 Work experience
-======
+-----
 * <b>Data scientist</b>   <i>University College London; Remote location - London, United Kingdom | 03/2024 - 07/2024</i>
   * <b>Developed and optimized R scripts</b> for consolidating and analysing longitudinal data on language development in children, with customised solutions establishing an efficient analysis pipeline. 
   * <b>Collaborated closely with researchers</b>, understanding their data needs and translating them into actionable analytical workflows.
@@ -51,7 +51,7 @@ Work experience
 
 
 Technical Skills
-======
+-----
 * <b>Python</b>
   * Advanced skills in experiment task programming, data analysis and visualisation. Toolbox expertise includes Psychopy, Numpy, and Pandas.
 * <b>MATLAB</b>
@@ -64,7 +64,7 @@ Technical Skills
   * Intermediate skills in data manipulation, analysis, and visualisation.
   
 Language Skills
-=====
+-----
 * <b>Swedish</b>
   * Native
 * <b>English</b>
@@ -75,14 +75,14 @@ Language Skills
   * Basic
 
 Service and leadership
-======
+-----
 * 07/2023 – 09/2023: <b>Supervision of research intern</b> (Karolinska Institutet, Sweden), including experiment design and piloting, data collection and analysis, and presentation of results and conclusions. 
 * 12/2018 – 07/2019: <b>Supervision of research intern</b> (University of Sussex, United Kingdom), including experiment design and piloting, data collection and analysis, and presentation of results and conclusions.
 * 2019 - 2021: <b>Committee member</b> in University of Sussex Archery Club; 
 Competitions officer.
 
 Publications
-======
+-----
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
