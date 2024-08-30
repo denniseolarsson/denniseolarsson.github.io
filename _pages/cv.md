@@ -32,17 +32,6 @@ p {
 }
 </style>
 </head>
-<body>
-
-<h1>This is heading 1</h1>
-<h20>This is heading 2</h20>
-This is just whatever...
-<h18>this is heading 18</h18>
-<h15>And this is heading 15</h15>
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
-
-</body>
 </html>
 
 Education
