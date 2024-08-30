@@ -17,8 +17,8 @@ h1 {
   font-size: 40px;
 }
 
-h2 {
-  font-size: 30px;
+h20 {
+  font-size: 20px;
 }
 
 p {
@@ -29,7 +29,8 @@ p {
 <body>
 
 <h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
+<h20>This is heading 2</h20>
+This is just whatever...
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
 
