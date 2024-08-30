@@ -23,6 +23,7 @@ Education
 Work experience
 ======
 <b>Data scientist</b>
+
 <i>University College London; Remote location - London, United Kingdom; 03/2024 - 07/2024</i>
 * <b>Developed and optimized R scripts</b> for data analysis, enhancing the efficiency and accuracy of research projects across multiple disciplines.
 * <b>Collaborated closely with researchers</b>, understanding their data needs and translating them into actionable analytical workflows.
