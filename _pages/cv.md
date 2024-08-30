@@ -9,6 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+
+<html>
+<head>
+<style>
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
+</style>
+</head>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
+
 Education
 -----
 * <b>Ph.D in Psychology</b>   <i>University of Sussex, United Kingdom | 10/2018 - 11/2022</i>
