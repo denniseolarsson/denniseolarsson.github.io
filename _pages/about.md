@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, my name is Dennis!"
+title: "Hello, my name is Dominika!
 author_profile: false
 redirect_from: 
   - /about/

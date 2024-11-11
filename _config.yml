@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dennis E O Larsson, PhD"
+title                    : "Dominika Radziun, PhD"
 title_separator          : ","
-name                     : &name "Dennis E O Larsson"
+name                     : &name "Dominika Radziun"
 description              : &description "personal description"
 url                      : https://dominikaradziun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
