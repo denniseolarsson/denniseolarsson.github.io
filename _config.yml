@@ -12,9 +12,9 @@ title                    : "Dennis E O Larsson, PhD"
 title_separator          : ","
 name                     : &name "Dennis E O Larsson"
 description              : &description "personal description"
-url                      : https://denniseolarsson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dominikaradziun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "denniseolarsson/denniseolarsson.github.io"
+repository               : "dominikaradziun/dominikaradziun.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,14 +22,13 @@ repository               : "denniseolarsson/denniseolarsson.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dennis E O Larsson"
-  pronouns         : "He/Him"  
-  bio              : "I have 7+ years of academic experience conducting quantitative research as a mixed methods researcher, with a background in experimental psychology, cognitive neuroscience, and brain-body interaction.
-I enjoy leadership and mentoring in varous setting, as evidenced by two years as competitions officer at the Sussex Archery Club, and mentoring of 20+ students."
+  name             : "Dominika Radziun"
+  pronouns         : "She/Her"  
+  bio              : "bio"
   location         : "'s-Hertogenbosch, Netherlands"
-  employer         : #"Red Brick University"
+  employer         : #"Radboud University"
   uri              : # URL
-  email            : "denniseolarsson@gmail.com" 
+  email            : "dominikaradziun@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +42,7 @@ I enjoy leadership and mentoring in varous setting, as evidenced by two years as
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/denniseolarsson"
+  github           : "https://github.com/dominikaradziun"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
