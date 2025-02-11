@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Dennis E O Larsson"
 author_profile: true
 redirect_from: 
   - /about/
