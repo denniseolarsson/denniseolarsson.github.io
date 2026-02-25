@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Dennis Larsson"
   pronouns         : "He/Him"  
-  bio              : "I have 7+ years of quantitative science and analytics experience. I have a background in cognitive neuroscience with a focus on brain-body interaction and physiological data using advanced programming and problem-solving, and statistics using regression modelling and machine learning. I am an experienced project manager and supervisor with a strong ability to work individually as well as in collaborative groups."
-  location         : "'s-Hertogenbosch, Netherlands"
-  employer         : #"Radboud University"
+  bio              : "I am a cognitive neuroscientist researching early-life body processing using functional Magnetic Resonance Imaging. I have a background in experimental psychology and cognitive neuroscience with a focus on brain-body interaction and physiological data using neuroimaging, regression modelling and machine learning. I am an experienced project manager and supervisor with a strong ability to work individually as well as in collaborative groups."
+  location         : "Kiel, Germany"
+  employer         : #"der Zentrum für Integrative Psychiatrie"
   uri              : # URL
   email            : "denniseolarsson@gmail.com" 
 
