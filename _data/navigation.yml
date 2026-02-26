@@ -4,7 +4,7 @@ main:
     url: /files/dennis_larsson_cv.pdf
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=zwE2KOIAAAAJ&hl=en
 
 #  - title: "Talks"
 #    url: /talks/    
