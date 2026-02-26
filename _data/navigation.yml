@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/dennis_larsson_cv.pdf
-
   - title: "Publications"
     url: https://scholar.google.com/citations?user=zwE2KOIAAAAJ&hl=en
+
+  - title: "CV"
+    url: /files/dennis_larsson_cv.pdf
 
 #  - title: "Talks"
 #    url: /talks/    
