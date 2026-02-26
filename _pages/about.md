@@ -15,5 +15,5 @@ I obtained my PhD in Experimental Psychology from the University of Sussex, Unit
 
 My research interests include developmental neuroscience, brain–body interactions, and interoception.
 
-[Gmail](denniseolarsson@gmail.com)	[Email](dennis.larsson@uksh.de)  
+[Email](dennis.larsson@uksh.de)  
 [LinkedIn](https://www.linkedin.com/in/dennis-larsson-phd-45511586/)     [Google Scholar](https://scholar.google.com/citations?user=zwE2KOIAAAAJ&hl=en)     [GitHub](https://github.com/denniseolarsson)
